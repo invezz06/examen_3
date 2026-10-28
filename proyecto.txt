@@ -1,1 +1,1 @@
-"Fase Inicial: Diseno inicial" 
+"Fase 2: Desarrollo Frontend" 
